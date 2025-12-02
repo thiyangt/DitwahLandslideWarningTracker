@@ -1,10 +1,11 @@
 project:
   type: book
+  output-dir: docs
 
 book:
-  title: "Ditwah: Landslides Early Warnings Analysis"
+  title: "Ditwah: Landslide Early Warning Tracker"
   subtitle: "November, 20-30, December 1, 2025"
-  author: "Thiyanga S. Talagala, Y. M. Amali P. Rajapaksha, Geethma R. Jayasinghe, N. G. Shehara Minimuthu, Y. G. D. M. Savindya Thathsarani"
+  author: "Thiyanga S. Talagala, <br> Y. M. Amali P. Rajapaksha, <br> Geethma R. Jayasinghe, <br> N. G. Shehara Minimuthu, <br> Y. G. D. M. Savindya Thathsarani"
   chapters:
     - text: "Select Province"
       file: index.qmd
