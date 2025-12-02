@@ -2,23 +2,22 @@ project:
   type: book
 
 book:
-  title: "This is my thesis"
-  author: "Susan Su"
+  title: "Ditwah: Landslides Early Warnings Analysis"
+  subtitle: "November, 20-30, December 1, 2025"
+  author: "Thiyanga S. Talagala, Y. M. Amali P. Rajapaksha, Geethma R. Jayasinghe, N. G. Shehara Minimuthu, Y. G. D. M. Savindya Thathsarani"
   chapters:
-    - text: "Front matter"
+    - text: "Select Province"
       file: index.qmd
     - "01-chap1.qmd"
     - "02-chap2.qmd"
+    - "03-chap3.qmd"
+    - "04-chap4.qmd"
     - "refs.qmd"
   sidebar:
     style: "docked"
 
 bibliography: thesisrefs.bib
 csl: american-statistical-association.csl
-degreetype: Doctor of Philosophy
-submitted: 2024
-affiliation: Department of Econometrics & Business Statistics
-degrees: 'B.Sc. (Hons), University of Tangambalanga'
 
 format:
   monashthesis-html: default
