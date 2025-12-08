@@ -14,7 +14,7 @@
     "href": "01-chap1.html",
     "title": "1  Uva Province",
     "section": "",
-    "text": "1.1 Badulla\nNULL",
+    "text": "1.1 Badulla",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Uva Province</span>"
     ]
@@ -25,6 +25,16 @@
     "title": "1  Uva Province",
     "section": "\n1.2 Monaragala",
     "text": "1.2 Monaragala",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Uva Province</span>"
+    ]
+  },
+  {
+    "objectID": "01-chap1.html#badulla",
+    "href": "01-chap1.html#badulla",
+    "title": "1  Uva Province",
+    "section": "",
+    "text": "Warning Release Time\n\n\nNULL",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Uva Province</span>"
     ]

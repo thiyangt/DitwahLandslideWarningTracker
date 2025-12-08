@@ -11,7 +11,9 @@ library(ditwahLandslide)
 
 ## Badulla
 
-```{r, out.height="100%"}
+### Warning Release Time
+
+```{r, out.height="100%", echo=FALSE}
 # create datetime variable
 ditwah_landslides_warnings2 <- ditwah_landslides_warnings |>
   mutate(
@@ -38,6 +40,14 @@ fill = Level)) +
     panel.grid = element_blank() 
   )
 p1
+```
+
+
+```{r, , out.height="100%"}
+# install.packages("pak")
+#pak::pak("thiyangt/ditwahLandslide")
+library(ditwahLandslide)
+viz_landslide_warnings_from_to(province = "Uva", district = "Badulla", interactivity=FALSE)
 ```
 
 
